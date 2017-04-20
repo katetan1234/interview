@@ -1,4 +1,4 @@
-Name: Hengjin Tan email: htan5@ncsu.edu
+Name: Hengjin Tan Email: htan5@ncsu.edu
 
 The way to run test file:
 
